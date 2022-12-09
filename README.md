@@ -1,0 +1,2 @@
+# examples
+JavaKube framework examples
